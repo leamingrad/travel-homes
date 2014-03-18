@@ -42,7 +42,7 @@
 			  fillColor: '#FF0000',
 			  fillOpacity: 0.35,
 			  map: map,
-			  center: citymap[city].center,
+			  center: tubestations[station].center,
 			  radius: 100
 			};
 			// Add the circle for this city to the map.
